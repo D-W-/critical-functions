@@ -135,7 +135,7 @@ public class AntltParser {
   }
 
   public static void run() throws IOException {
-    BufferedReader bufferedReader = IO.getReader("res/in119");
+    BufferedReader bufferedReader = IO.getReader("res/in399");
     String buffer = "";
     String line = null, prev = null;
 //    ignore 1st line
